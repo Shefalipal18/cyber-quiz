@@ -6,7 +6,7 @@ let questions=[
         option: ["A. Cyber Security provides security against malware ",
                  "B. Cyber Security provides security against cyber-terrorists",
                  "C. Cyber Security protects a system from cyber attacks",
-                 "D. All of the mentioned"
+                 "D. All of the above`"
                 ]
     },
     {
